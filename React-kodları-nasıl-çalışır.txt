@@ -1,0 +1,1 @@
+React kodları HTML tabanına çok benzer sadece bazı değişikliklerle HTML kodunu React Koduna çevirebilirsiniz.

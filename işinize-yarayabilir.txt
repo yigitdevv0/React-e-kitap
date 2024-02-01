@@ -1,0 +1,4 @@
+HTML kodunu REACT.JS e çevirmek için şu toollar kullanılabilir.
+
+TOOLS;
+https://www.divmagic.com/tr/tools/html-to-jsx

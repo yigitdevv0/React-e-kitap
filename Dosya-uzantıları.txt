@@ -1,0 +1,5 @@
+JAVASCRİPT
+.jsx
+
+TYPESCRİPT
+.tsx

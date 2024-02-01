@@ -1,0 +1,5 @@
+Genellikle React olarak anılan React JS, Facebook ve açık kaynaklı bir geliştirici topluluğu tarafından yürütülen JavaScript tabanlı bir UI geliştirme kütüphanesidir.
+
+Jordan Walke tarafından Facebook’ta çalışırken oluşturulmuştur ve tek sayfalık uygulama veya mobil uygulamaların geliştirilmesinde kullanılabilir.
+
+Açık kaynaklı olması, kütüphanenin popüler olmasının en önemli nedenlerindendir.
